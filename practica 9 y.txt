@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC>
+
+<html>
+<head>
+	<style type="text/css">
+	.cinco a {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 28px;
+		text-decoration: none;
+		color: #000;
+                background-image: url(https://i.pinimg.com/736x/28/f4/e7/28f4e7148bf8c22c471256166ce4cde5.jpg);
+                background-repeat: no-repeat;
+		background-position: center center;
+		padding:32px
+
+	}
+	.cinco a:hover {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 28px;
+		text-decoration: none;
+		color: #FFF;
+                background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20200924/pngtree-watercolor-smudge-background-image_399600.jpg);
+		padding:32px
+
+	}
+
+
+	</style>
+	</head>
+	
+	<body>
+	<div class="cinco">
+        <a href="https://www.facebook.com/sharer/sharer.php?u="><img src="https://i.ibb.co/hV5Q4wf/facebook-icon-icons-com-59205.png"></a> <a href="https://twitter.com/intent/tweet?text=titulo&url=url&via=user"><img src="https://i.ibb.co/0F3K3L7/Twitter-icon-icons-com-56589.png"></a> <a href="https://plus.google.com/share?url=url"><img src="https://i.ibb.co/RYnNfWG/1491580639-yumminkysocialmedia43-83077.png"></a>
+	</div>
+	</body>
+	</html>
